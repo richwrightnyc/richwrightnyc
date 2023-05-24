@@ -1,4 +1,4 @@
-# Hi, I'm Rich 👋
+# Hey, I'm Rich 👋
 I'm a self-taught developer working in DevOps at The Home Depot. Prior, I've held various titles within the field of Information Technology, and worn many hats at many times.
 
 <a href="https://github.com/hudsononhere">

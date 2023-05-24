@@ -1,6 +1,12 @@
 # Hi, I'm Rich 👋
 I'm a self-taught developer working in DevOps at The Home Depot. Prior, I've held various titles within the field of Information Technology, and worn many hats at many times.
 
+While Bash scripting was my first true love, and what inspired me to learn how to code, I've also worked with:
+- JavaScript
+- Python
+- Swift
+- PowerShell
+
 <br>
 <a href="https://github.com/hudsononhere">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&show_icons=true&theme=transparent&hide_border=true" />

@@ -16,3 +16,8 @@ I'm a self-taught developer working in DevOps at The Home Depot. Prior, I've hel
 
 ## Open Source Contributions
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sundowndev&repo=phoneinfoga&theme=transparent&hide_border=true)](https://github.com/sundowndev/phoneinfoga/pull/1194)
+
+
+<!-- These may come in handy later...
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/Ileriayo/markdown-badges -->

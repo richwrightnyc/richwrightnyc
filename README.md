@@ -8,6 +8,15 @@
 
 - ❤️ Bash scripting is fun!
 
-<br>
+<!-- <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+ -->
+<br>
+<a href="https://github.com/hudsononhere">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/HudsonOnHere?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsononhere&layout=donut&count_private=true&langs_count=10&theme=transparent&hide_border=true" />
+</a>
+

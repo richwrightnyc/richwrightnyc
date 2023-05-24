@@ -1,17 +1,10 @@
-# Rich (HudsonOnHere)
+# Hi, I'm Rich 👋
+I'm a self-taught developer working in DevOps at The Home Depot. Prior, I held various titles within the field of Information Technology, and wore many hats at many times.
 
-- 🧠 Self-taught developer
+Although Bash scripting was my first true love and what inspired me to learn how to code, I've worked with a handful of other languages in my personal projects and professional career. My big four are JavaScript, Python, Bash, and Powershell.
 
-- 🛠 DevOps @ [The Home Depot](https://github.com/homedepot)
+While I'm a supporter of Right to Repair, data privacy, and open source, here you'll mainly find my tinkerings with things that have interested me.
 
-- 📚 Currently learning [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
-
-- ❤️ Bash scripting is fun!
-
-<!-- <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&show_icons=true&theme=transparent&hide_border=true)
- -->
 <br>
 <a href="https://github.com/hudsononhere">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&show_icons=true&theme=transparent&hide_border=true" />

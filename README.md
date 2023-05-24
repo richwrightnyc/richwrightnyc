@@ -11,8 +11,3 @@
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsononhere&count_private=true&theme=tokyonight&show_icons=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-

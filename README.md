@@ -12,19 +12,19 @@ I'm a self-taught developer working in DevOps at The Home Depot. Prior, I've hel
 
 *While Bash scripting was my first true love, and what inspired me to learn how to code, I've also worked with:*
 
-<a>
+<a href="https://github.com/hudsononhere">
   <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
-<a>
+<a href="https://github.com/hudsononhere">
   <img align="center" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 </a>
-<a>
+<a href="https://github.com/hudsononhere">
   <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </a>
-<a>
+<a href="https://github.com/hudsononhere">
   <img align="center" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
 </a>
-<a>
+<a href="https://github.com/hudsononhere">
   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </a>
 
